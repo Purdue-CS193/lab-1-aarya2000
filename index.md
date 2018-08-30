@@ -1,9 +1,8 @@
-#Aarya's first CS193 lab
-##My favorite things about CS193
--Taught by TAs - they are super chill!
--It's a lot of fun to work in lab, especially in Lawson!
--It's only an hour, once a week!
-
+# Aarya's first CS193 lab
+## My favorite things about CS193
+- Taught by TAs - they are super chill!
+- It's a lot of fun to work in lab, especially in Lawson!
+- It's only an hour, once a week!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
