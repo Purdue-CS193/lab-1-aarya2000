@@ -1,5 +1,6 @@
 # Aarya's first CS193 lab
-## My favorite things about CS193
+
+## My favorite things about CS193:
 - Taught by TAs - they are super chill!
 - It's a lot of fun to work in lab, especially in Lawson!
 - It's only an hour, once a week!
